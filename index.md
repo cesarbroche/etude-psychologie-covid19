@@ -4,7 +4,8 @@ Bienvenue sur le site de notre étude en ligne et merci pour votre temps. Cette 
 
 Pour en comprendre les conséquences psychologiques de cette crise, vous retrouvez ici à la fin de l'étude une synthèse des résultats.
 
-Pour plus d’informations à propos de cette étude, vous pouvez nous contacter à ces adresses
+Pour plus d’informations à propos de cette étude, vous pouvez nous contacter à ces adresses :
+
 César BROCHE, Doctorant, Psychologie sociale et du travail
 cesar.broche@univ-montp3.fr
 

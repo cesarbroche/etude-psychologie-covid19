@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Etude de psychologie du travail en ligne Covid-19
 
-You can use the [editor on GitHub](https://github.com/cesarbroche/etude-psychologie-covid19/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenue sur le site de notre étude en ligne et merci pour votre temps. Cette étude vise à mieux comprendre l'impact de la crise sanitaire en cours sur la qualité de vie des salariés.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vous retrouverez ici une synthèse des résultats à la fin de l'étude.
 
-### Markdown
+Pour plus d’informations à propos de cette étude, vous pouvez nous contacter à ces adresses
+César BROCHE, Doctorant, Psychologie du travail
+cesar.broche@univ-montp3.fr
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Daniel Gilibert, Professeur des Universités, Psychologie sociale
+daniel.gilibert@univ-montp3.fr
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cesarbroche/etude-psychologie-covid19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Jacques PY, Professeur des Université, Psychologie sociale
+jacques.py@univ-tlse2.fr
